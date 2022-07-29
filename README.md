@@ -1,8 +1,8 @@
-# Receipts-for-Lovely-Loveseats
+# Receipts for furniture shop
 ---
 
-## Programming language:
----
+- Programming language:
+
 Python 3
 
 ## Description
