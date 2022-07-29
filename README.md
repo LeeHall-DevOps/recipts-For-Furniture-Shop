@@ -1,9 +1,7 @@
 # Receipts for furniture shop
 ---
 
-- Programming language:
-
-Python 3
+- Programming language: Python 3
 
 ## Description
 ---
